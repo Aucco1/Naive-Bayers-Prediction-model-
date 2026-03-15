@@ -142,6 +142,18 @@ The inferior version of the model by using the survey (smaller dataset).
 
   Naive assumption only combines factors, not understand the relation of both, it deals with odds in an independent manner and calculates blindly. Not really a great tool for complex human psychology. However it does a good job in specific tasks that involve probabilistic contexts that disregards contexts.
 
+# Why our model is much more accurate than other models presented.
+
+  We realized that asking people hypothetical questions resulted in really messy, inaccurate data. So instead, we used a heuristic approach. We designed a logical point system for the 5 factors (Weather, Health, etc.) and generated all the possible combinations. Our Naive Bayes model learned our logical system, which is why the accuracy is so high.
+
+  But yeah there is a flaw, our system is accurate because it plays by our rules (the point system), it assumes every human is a walking rational calculator, perfectly logical beings. Which isnt true because humand are complex beings that have contradicting opinions.
+
+  And because of that contradicting nature and a sparse data problem(small dataset and small respondents), we're practically creating a very inaccurate model, it would be more viable if we had thousands of people to work with in order to see more patterns, but that is exactly what we were lacking which is why we had to be creative and made a rule based data-set to properly showcase what an accurate naive bayes model would look like.
+
+ 
+
+  
+
 
 
 ## Group 8: Pacheco, Lucero, Peralta
