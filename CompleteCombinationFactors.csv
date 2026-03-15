@@ -1,0 +1,169 @@
+Weather,Health,Academic Load,Motivation,Location,Outcome
+Rainy,Healthy,Assignment Due,Unmotivated,Far/Require Transportation,Present
+Stormy,Injured,Normal Day,Unmotivated,Walking Distance,Absent
+Rainy,Injured,Major Exam,Unmotivated,Far/Require Transportation,Present
+Sunny,Sick,Normal Day,Burned Out,Far/Require Transportation,Absent
+Stormy,Healthy,Normal Day,Burned Out,Walking Distance,Absent
+Stormy,Healthy,Assignment Due,Unmotivated,Walking Distance,Absent
+Rainy,Sick,Normal Day,Unmotivated,Far/Require Transportation,Absent
+Rainy,Injured,Major Exam,Unmotivated,Walking Distance,Present
+Rainy,Injured,Major Exam,Motivated,Walking Distance,Present
+Sunny,Healthy,Normal Day,Burned Out,Far/Require Transportation,Present
+Sunny,Healthy,Normal Day,Unmotivated,Far/Require Transportation,Present
+Rainy,Healthy,Assignment Due,Unmotivated,Far/Require Transportation,Present
+Sunny,Sick,Normal Day,Burned Out,Far/Require Transportation,Absent
+Sunny,Sick,Major Exam,Unmotivated,Far/Require Transportation,Absent
+Sunny,Sick,Normal Day,Burned Out,Far/Require Transportation,Absent
+Sunny,Injured,Assignment Due,Burned Out,Walking Distance,Absent
+Stormy,Sick,Major Exam,Motivated,Far/Require Transportation,Absent
+Rainy,Healthy,Normal Day,Motivated,Far/Require Transportation,Present
+Stormy,Healthy,Major Exam,Unmotivated,Walking Distance,Present
+Stormy,Healthy,Assignment Due,Motivated,Far/Require Transportation,Present
+Stormy,Injured,Assignment Due,Unmotivated,Walking Distance,Absent
+Rainy,Injured,Major Exam,Unmotivated,Walking Distance,Present
+Sunny,Injured,Normal Day,Motivated,Far/Require Transportation,Present
+Rainy,Healthy,Normal Day,Motivated,Far/Require Transportation,Present
+Rainy,Injured,Normal Day,Motivated,Walking Distance,Present
+Sunny,Injured,Assignment Due,Motivated,Walking Distance,Present
+Stormy,Injured,Normal Day,Unmotivated,Walking Distance,Absent
+Stormy,Sick,Assignment Due,Unmotivated,Far/Require Transportation,Absent
+Rainy,Injured,Major Exam,Unmotivated,Walking Distance,Present
+Sunny,Sick,Major Exam,Unmotivated,Walking Distance,Absent
+Rainy,Healthy,Major Exam,Burned Out,Walking Distance,Present
+Rainy,Injured,Major Exam,Unmotivated,Walking Distance,Present
+Stormy,Healthy,Assignment Due,Unmotivated,Walking Distance,Absent
+Sunny,Sick,Major Exam,Burned Out,Walking Distance,Present
+Sunny,Sick,Normal Day,Unmotivated,Far/Require Transportation,Absent
+Sunny,Injured,Major Exam,Unmotivated,Far/Require Transportation,Present
+Stormy,Healthy,Assignment Due,Burned Out,Walking Distance,Absent
+Stormy,Healthy,Assignment Due,Unmotivated,Far/Require Transportation,Absent
+Rainy,Healthy,Normal Day,Motivated,Walking Distance,Present
+Rainy,Sick,Assignment Due,Unmotivated,Far/Require Transportation,Absent
+Stormy,Healthy,Normal Day,Motivated,Far/Require Transportation,Present
+Sunny,Injured,Normal Day,Unmotivated,Walking Distance,Present
+Stormy,Healthy,Assignment Due,Motivated,Far/Require Transportation,Present
+Sunny,Sick,Assignment Due,Motivated,Far/Require Transportation,Present
+Stormy,Injured,Normal Day,Burned Out,Walking Distance,Absent
+Sunny,Sick,Assignment Due,Unmotivated,Walking Distance,Absent
+Rainy,Healthy,Assignment Due,Burned Out,Far/Require Transportation,Present
+Sunny,Sick,Normal Day,Unmotivated,Walking Distance,Absent
+Stormy,Healthy,Assignment Due,Burned Out,Far/Require Transportation,Absent
+Stormy,Injured,Assignment Due,Unmotivated,Far/Require Transportation,Absent
+Rainy,Injured,Assignment Due,Unmotivated,Far/Require Transportation,Absent
+Stormy,Healthy,Assignment Due,Burned Out,Far/Require Transportation,Absent
+Stormy,Injured,Major Exam,Motivated,Far/Require Transportation,Present
+Rainy,Sick,Normal Day,Unmotivated,Walking Distance,Absent
+Sunny,Healthy,Major Exam,Burned Out,Walking Distance,Present
+Sunny,Healthy,Major Exam,Unmotivated,Walking Distance,Present
+Stormy,Healthy,Assignment Due,Unmotivated,Far/Require Transportation,Absent
+Rainy,Sick,Major Exam,Unmotivated,Walking Distance,Absent
+Sunny,Sick,Assignment Due,Burned Out,Walking Distance,Absent
+Rainy,Healthy,Major Exam,Burned Out,Far/Require Transportation,Present
+Sunny,Sick,Normal Day,Burned Out,Walking Distance,Absent
+Stormy,Healthy,Major Exam,Motivated,Far/Require Transportation,Present
+Stormy,Injured,Assignment Due,Motivated,Far/Require Transportation,Absent
+Stormy,Injured,Assignment Due,Burned Out,Walking Distance,Absent
+Sunny,Sick,Normal Day,Burned Out,Far/Require Transportation,Absent
+Stormy,Injured,Normal Day,Unmotivated,Walking Distance,Absent
+Sunny,Healthy,Normal Day,Motivated,Far/Require Transportation,Present
+Rainy,Healthy,Major Exam,Motivated,Far/Require Transportation,Present
+Rainy,Injured,Major Exam,Motivated,Far/Require Transportation,Present
+Sunny,Healthy,Normal Day,Motivated,Far/Require Transportation,Present
+Rainy,Healthy,Major Exam,Motivated,Walking Distance,Present
+Sunny,Healthy,Assignment Due,Unmotivated,Far/Require Transportation,Present
+Stormy,Injured,Major Exam,Motivated,Far/Require Transportation,Present
+Stormy,Injured,Normal Day,Motivated,Far/Require Transportation,Absent
+Rainy,Sick,Normal Day,Unmotivated,Far/Require Transportation,Absent
+Sunny,Sick,Assignment Due,Burned Out,Walking Distance,Absent
+Sunny,Injured,Assignment Due,Burned Out,Far/Require Transportation,Absent
+Sunny,Healthy,Major Exam,Motivated,Walking Distance,Present
+Sunny,Injured,Major Exam,Burned Out,Walking Distance,Present
+Sunny,Injured,Normal Day,Motivated,Far/Require Transportation,Present
+Stormy,Sick,Assignment Due,Motivated,Far/Require Transportation,Absent
+Stormy,Healthy,Normal Day,Burned Out,Far/Require Transportation,Absent
+Rainy,Injured,Assignment Due,Burned Out,Far/Require Transportation,Absent
+Rainy,Injured,Normal Day,Unmotivated,Walking Distance,Absent
+Rainy,Sick,Major Exam,Burned Out,Far/Require Transportation,Absent
+Sunny,Sick,Major Exam,Burned Out,Far/Require Transportation,Absent
+Rainy,Sick,Assignment Due,Motivated,Walking Distance,Absent
+Stormy,Healthy,Assignment Due,Burned Out,Walking Distance,Absent
+Sunny,Injured,Assignment Due,Unmotivated,Far/Require Transportation,Absent
+Stormy,Sick,Normal Day,Burned Out,Walking Distance,Absent
+Stormy,Injured,Assignment Due,Burned Out,Walking Distance,Absent
+Sunny,Healthy,Normal Day,Motivated,Far/Require Transportation,Present
+Rainy,Injured,Major Exam,Motivated,Walking Distance,Present
+Sunny,Sick,Major Exam,Unmotivated,Far/Require Transportation,Absent
+Sunny,Sick,Major Exam,Motivated,Walking Distance,Present
+Stormy,Healthy,Assignment Due,Unmotivated,Walking Distance,Absent
+Stormy,Injured,Assignment Due,Burned Out,Far/Require Transportation,Absent
+Rainy,Healthy,Normal Day,Motivated,Walking Distance,Present
+Sunny,Healthy,Assignment Due,Motivated,Far/Require Transportation,Present
+Sunny,Sick,Major Exam,Burned Out,Far/Require Transportation,Absent
+Stormy,Injured,Major Exam,Burned Out,Far/Require Transportation,Absent
+Stormy,Injured,Normal Day,Burned Out,Far/Require Transportation,Absent
+Stormy,Sick,Assignment Due,Burned Out,Far/Require Transportation,Absent
+Rainy,Sick,Major Exam,Motivated,Walking Distance,Present
+Rainy,Sick,Major Exam,Unmotivated,Far/Require Transportation,Absent
+Sunny,Injured,Major Exam,Motivated,Walking Distance,Present
+Rainy,Injured,Major Exam,Unmotivated,Walking Distance,Present
+Stormy,Sick,Assignment Due,Motivated,Walking Distance,Absent
+Rainy,Sick,Normal Day,Motivated,Walking Distance,Absent
+Rainy,Injured,Major Exam,Burned Out,Far/Require Transportation,Absent
+Stormy,Sick,Normal Day,Burned Out,Far/Require Transportation,Absent
+Sunny,Injured,Major Exam,Unmotivated,Far/Require Transportation,Absent
+Stormy,Sick,Major Exam,Unmotivated,Walking Distance,Absent
+Stormy,Healthy,Major Exam,Motivated,Far/Require Transportation,Present
+Sunny,Healthy,Major Exam,Unmotivated,Walking Distance,Present
+Rainy,Sick,Major Exam,Unmotivated,Far/Require Transportation,Absent
+Rainy,Sick,Major Exam,Motivated,Walking Distance,Present
+Stormy,Injured,Major Exam,Unmotivated,Walking Distance,Absent
+Stormy,Healthy,Normal Day,Motivated,Far/Require Transportation,Present
+Stormy,Injured,Assignment Due,Motivated,Far/Require Transportation,Absent
+Stormy,Healthy,Assignment Due,Motivated,Walking Distance,Present
+Sunny,Injured,Assignment Due,Burned Out,Walking Distance,Absent
+Stormy,Healthy,Assignment Due,Motivated,Far/Require Transportation,Present
+Rainy,Healthy,Major Exam,Unmotivated,Far/Require Transportation,Present
+Stormy,Injured,Major Exam,Motivated,Far/Require Transportation,Absent
+Rainy,Sick,Assignment Due,Burned Out,Walking Distance,Absent
+Rainy,Injured,Major Exam,Unmotivated,Walking Distance,Present
+Sunny,Injured,Major Exam,Burned Out,Far/Require Transportation,Absent
+Stormy,Healthy,Normal Day,Unmotivated,Far/Require Transportation,Absent
+Stormy,Sick,Major Exam,Burned Out,Walking Distance,Absent
+Sunny,Sick,Major Exam,Motivated,Walking Distance,Present
+Sunny,Injured,Major Exam,Motivated,Far/Require Transportation,Present
+Stormy,Injured,Assignment Due,Motivated,Walking Distance,Absent
+Sunny,Injured,Assignment Due,Motivated,Far/Require Transportation,Present
+Sunny,Injured,Assignment Due,Burned Out,Far/Require Transportation,Absent
+Rainy,Injured,Normal Day,Unmotivated,Walking Distance,Present
+Sunny,Sick,Normal Day,Motivated,Walking Distance,Present
+Stormy,Injured,Major Exam,Unmotivated,Walking Distance,Absent
+Sunny,Healthy,Assignment Due,Motivated,Walking Distance,Present
+Stormy,Sick,Major Exam,Burned Out,Far/Require Transportation,Absent
+Stormy,Healthy,Major Exam,Unmotivated,Walking Distance,Present
+Sunny,Healthy,Assignment Due,Motivated,Far/Require Transportation,Present
+Rainy,Injured,Major Exam,Burned Out,Walking Distance,Present
+Stormy,Sick,Assignment Due,Unmotivated,Walking Distance,Absent
+Stormy,Sick,Normal Day,Unmotivated,Far/Require Transportation,Absent
+Rainy,Healthy,Assignment Due,Burned Out,Far/Require Transportation,Absent
+Sunny,Healthy,Normal Day,Burned Out,Far/Require Transportation,Absent
+Sunny,Healthy,Major Exam,Unmotivated,Far/Require Transportation,Present
+Rainy,Healthy,Major Exam,Motivated,Walking Distance,Present
+Stormy,Healthy,Major Exam,Burned Out,Walking Distance,Present
+Stormy,Sick,Normal Day,Unmotivated,Far/Require Transportation,Absent
+Stormy,Injured,Major Exam,Burned Out,Far/Require Transportation,Absent
+Sunny,Sick,Assignment Due,Motivated,Walking Distance,Present
+Rainy,Healthy,Normal Day,Motivated,Far/Require Transportation,Present
+Rainy,Healthy,Assignment Due,Motivated,Far/Require Transportation,Present
+Rainy,Healthy,Normal Day,Unmotivated,Walking Distance,Present
+Stormy,Healthy,Major Exam,Burned Out,Walking Distance,Present
+Rainy,Injured,Major Exam,Motivated,Far/Require Transportation,Present
+Rainy,Sick,Major Exam,Motivated,Walking Distance,Present
+Stormy,Sick,Assignment Due,Motivated,Walking Distance,Absent
+Stormy,Healthy,Major Exam,Burned Out,Far/Require Transportation,Present
+Stormy,Healthy,Normal Day,Motivated,Far/Require Transportation,Present
+Stormy,Injured,Major Exam,Motivated,Far/Require Transportation,Absent
+Stormy,Healthy,Normal Day,Unmotivated,Far/Require Transportation,Absent
+Rainy,Sick,Normal Day,Burned Out,Far/Require Transportation,Absent
+Sunny,Injured,Assignment Due,Burned Out,Far/Require Transportation,Absent
+Stormy,Sick,Major Exam,Burned Out,Far/Require Transportation,Absent
+Rainy,Healthy,Major Exam,Unmotivated,Walking Distance,Present
