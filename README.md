@@ -37,7 +37,7 @@ python -m streamlit run naivebaayesaccuraccy.py
 
 ### DATA TABLE
 
-
+<img width="1214" height="688" alt="Image" src="https://github.com/user-attachments/assets/0ea45610-0c1b-4f8d-9ea4-b652452250a6" />
 
 # Group 8: Pacheco, Lucero, Peralta
 
