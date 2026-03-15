@@ -20,32 +20,32 @@ by multiplying the sub-factors together. So in total there should be 162 combina
 
 
 ## Clone the Files First
-```bash
+``cmd
 git clone https://github.com/Aucco1/Naive-Bayers-Prediction-model-.git
-```
+``
 
 ## Install dependencies
 
 ### 1. Pandas
-```bash
+``cmd
 pip install panda
-```
+``
 ### 2. Sklearn
-```bash
+``cmd
 pip install scikit-learn
-```
+``
 ### 3. Streamlit
-```bash
+``cmd
 pip install streamlit
-```
+``
 
 
 ## How to run instructions:
 
 ### 1. Run this in terminal
-```bash
+``cmd
 python -m streamlit run naivebaayesaccuraccy.py
-```
+``
 
 ## Survey Phase.
 
