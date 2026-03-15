@@ -8,11 +8,11 @@
 
 This project demonstrates a Naive-Bayers prediction model on student absence based on the underlying factors:
 
-* ** Weather ** Rainy, Stormy, Sunny
-* ** Health ** Healthy, Injured, Sick
-* ** Academic Load ** Assignment Due, Normal Day, Major Exam
-* ** Motivation ** Unmotivated, Burned Out, Motivated
-* ** Location ** Walking Distance, Commute
+*  Weather : Rainy, Stormy, Sunny
+*  Health : Healthy, Injured, Sick
+*  Academic Load : Assignment Due, Normal Day, Major Exam
+*  Motivation : Unmotivated, Burned Out, Motivated
+*  Location : Walking Distance, Commute
   
 > **Note:** The accuracy of the model heavily relies on the amount of dataset it is given. Fortunately, the factors present a deterministic combination
 by multiplying the sub-factors together. So in total there should be 162 combinations in a simulated data set. Which totally makes surveys obsolete, but for formalities sake, we have included one.
@@ -62,7 +62,7 @@ python -m streamlit run naivebaayesaccuraccy.py
 
 <figure>
   <img width="1086" height="465" alt="Image" src="https://github.com/user-attachments/assets/0f637e1a-4afe-4b63-9f65-cf6bf1fa06a6" />
-  <figcaption align="center"><b>Figure 1:</b> The dataset divides the factors and counts how many times the sub-factors appeared in each outcomes.</figcaption>
+  <figcaption align="center"><b>Figure 2:</b> The dataset divides the factors and counts how many times the sub-factors appeared in each outcomes.</figcaption>
 </figure>
 
 ### HISTOGRAM
@@ -70,7 +70,7 @@ python -m streamlit run naivebaayesaccuraccy.py
 
 <figure>
   <img width="796" height="773" alt="Image" src="https://github.com/user-attachments/assets/5d0b4b79-cb1b-42a4-b993-ba79c3a2c858" />
-  <figcaption align="center"><b>Figure 1:</b> A histrogram of the survey to serve as data representation. </figcaption>
+  <figcaption align="center"><b>Figure 3:</b> A histrogram of the survey to serve as data representation. </figcaption>
 </figure>
 
 
